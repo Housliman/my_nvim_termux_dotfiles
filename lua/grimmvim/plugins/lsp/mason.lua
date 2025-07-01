@@ -28,6 +28,7 @@ return {
 				"lua_ls",
 				"cssls",
 				"marksman",
+        "sqls",
 			},
 			-- auto installation
 			automatic_installation = true,
@@ -40,6 +41,7 @@ return {
 				{ "bash-language-server" },
 				{ "lua-language-server" },
 				{ "vim-language-server" },
+        { "sqls" },
 				{ "stylua" },
 				{ "editorconfig-checker" },
 				{ "html-lsp" },

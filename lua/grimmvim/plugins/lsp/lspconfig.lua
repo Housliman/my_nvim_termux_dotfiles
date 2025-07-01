@@ -102,6 +102,9 @@ return {
 				} },
 			},
 		})
+    lspconfig.intelephense.setup({
+      capabilities = capabilities,
+    })
 
 		-- Tailwind
 		-- Support for tailwind auto completion
