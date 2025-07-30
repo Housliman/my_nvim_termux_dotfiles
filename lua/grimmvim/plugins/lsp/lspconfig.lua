@@ -46,6 +46,13 @@ return {
 			},
 		})
 
+		-- Java (jdtls)
+		lspconfig.jdtls.setup({
+			capabilities = capabilities,
+			cmd = { "jdtls" },
+			root_dir = lspconfig.util.root_pattern(".git", "mvnw", "gradlew", "pom.xml", "build.gradle"),
+		})
+
 		-- rust_analyzer
 		lspconfig.rust_analyzer.setup({
 			capabilities = capabilities,
@@ -102,9 +109,9 @@ return {
 				} },
 			},
 		})
-    lspconfig.intelephense.setup({
-      capabilities = capabilities,
-    })
+		lspconfig.intelephense.setup({
+			capabilities = capabilities,
+		})
 
 		-- Tailwind
 		-- Support for tailwind auto completion
