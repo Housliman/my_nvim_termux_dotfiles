@@ -1,0 +1,15 @@
+./arch_linux.go
+./boottime_linux.go
+./capabilities_linux.go
+./container.go
+./doc.go
+./host_linux.go
+./kernel_linux.go
+./machineid.go
+./memory_linux.go
+./os.go
+./process_linux.go
+./procnet.go
+./seccomp_linux.go
+./util.go
+./vmstat.go

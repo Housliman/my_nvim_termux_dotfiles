@@ -1,0 +1,15 @@
+[START][2025-09-29 16:27:02] LSP logging initiated
+[WARN][2025-09-29 16:27:02] .../lua/vim/lsp.lua:432	"stylua does not have a configuration"
+[WARN][2025-09-29 16:27:10] .../lua/vim/lsp.lua:432	"stylua does not have a configuration"
+[WARN][2025-09-29 16:27:15] .../lua/vim/lsp.lua:432	"stylua does not have a configuration"
+[WARN][2025-09-29 16:27:20] .../lua/vim/lsp.lua:432	"stylua does not have a configuration"
+[WARN][2025-09-29 16:27:20] .../lua/vim/lsp.lua:432	"stylua does not have a configuration"
+[START][2025-09-29 16:38:59] LSP logging initiated
+[WARN][2025-09-29 16:38:59] .../lua/vim/lsp.lua:432	"bashls does not have a configuration"
+[WARN][2025-09-29 16:38:59] .../lua/vim/lsp.lua:432	"cssls does not have a configuration"
+[WARN][2025-09-29 16:38:59] .../lua/vim/lsp.lua:432	"emmet_ls does not have a configuration"
+[WARN][2025-09-29 16:38:59] .../lua/vim/lsp.lua:432	"html does not have a configuration"
+[WARN][2025-09-29 16:38:59] .../lua/vim/lsp.lua:432	"lua_ls does not have a configuration"
+[WARN][2025-09-29 16:38:59] .../lua/vim/lsp.lua:432	"marksman does not have a configuration"
+[WARN][2025-09-29 16:38:59] .../lua/vim/lsp.lua:432	"stylua does not have a configuration"
+[WARN][2025-09-29 16:38:59] .../lua/vim/lsp.lua:432	"vimls does not have a configuration"

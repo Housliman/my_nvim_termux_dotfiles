@@ -1,0 +1,8 @@
+./completion.go
+./definition.go
+./execute_command.go
+./format.go
+./handler.go
+./hover.go
+./rename.go
+./signature_help.go

@@ -1,0 +1,9 @@
+./dialect.go
+./h2.go
+./keyword.go
+./mssql.go
+./mysql.go
+./oracle.go
+./postgresql.go
+./sqlite.go
+./vertica.go

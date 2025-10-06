@@ -1,0 +1,15 @@
+./cache.go
+./config.go
+./database.go
+./database_mock.go
+./driver.go
+./h2.go
+./mssql.go
+./mysql.go
+./oracle.go
+./postgresql.go
+./query_type.go
+./scan_row.go
+./sqlite3.go
+./vertica.go
+./worker.go

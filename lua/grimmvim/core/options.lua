@@ -59,3 +59,5 @@ opt.backup = false
 opt.writebackup = false
 opt.updatetime = 300
 opt.timeoutlen = 500
+
+vim.o.modifiable = true
