@@ -93,6 +93,18 @@ return {
 				},
 			},
 		})
+    
+    --Yaml LS 
+    lspconfig.yamlls.setup({
+			capabilities = capabilities,
+      settings = {
+        yaml = {
+          schemas = {
+            ["https://raw.githubusercontent.com/yannh/kubernetes-json-schema/master/v1.27.4-standalone-strict/all.json"] = {"*.yaml","*.yml"},
+          },
+        },
+      },
+    })
 
 		-- CSS LS
 		lspconfig.cssls.setup({
@@ -109,6 +121,7 @@ return {
 				} },
 			},
 		})
+
 		lspconfig.intelephense.setup({
 			capabilities = capabilities,
 		})
